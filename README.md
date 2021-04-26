@@ -15,7 +15,7 @@ Truffle box configured to create an ERC20 token using Open Zeppelin smart contra
 - Open Zeppelin smart contracts 4.0.0 
 - Solidity 0.8.4
 
-[Sol token box](https://github.com/solangegueiros/sol-token-box)
+[Sol token box 2021](https://github.com/solangegueiros/sol-token-box)
 
 ## Requirements
 
