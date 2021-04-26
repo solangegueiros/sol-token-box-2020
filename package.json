@@ -1,7 +1,7 @@
 {
-  "name": "rsk-setup-box",
+  "name": "sol-token-box-2020",
   "version": "1.0.0",
-  "description": "Truffle box configured  to use Open Zeppelin with RSK Networks",
+  "description": "Truffle box configured to create a token using Open Zeppelin smart contracts and publish on Goerli testnet - version 2020",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -11,15 +11,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/solangegueiros/rsk-setup-box.git"
+    "url": "git+https://github.com/solangegueiros/sol-token-box-2020.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "blockchain",
+    "smart contracts",
+    "ethereum",
+    "rsk",
+    "rsksmart"
+  ],
+  "author": "Solange Gueiros <solangegueiros@gmail.com> (https://solange.dev)",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/solangegueiros/rsk-setup-box/issues"
+    "url": "https://github.com/solangegueiros/sol-token-box-2020/issues"
   },
-  "homepage": "https://github.com/solangegueiros/rsk-setup-box#readme",
+  "homepage": "https://github.com/solangegueiros/sol-token-box-2020#readme",
   "dependencies": {
     "@openzeppelin/contracts": "2.5.1",
     "@truffle/hdwallet-provider": "1.0.35"

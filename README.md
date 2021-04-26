@@ -53,7 +53,7 @@ cd mytoken
 This also takes care of installing the necessary dependencies and it can take some time.
 
 ```shell
-truffle unbox solangegueiros/eth-token-box
+truffle unbox solangegueiros/eth-token-box-2020
 ```
 
 This is the result using Windows OS:
